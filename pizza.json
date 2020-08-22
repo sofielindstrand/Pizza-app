@@ -1,0 +1,28 @@
+
+[
+    {   "name": "Webredpizzan", 
+        "price": 20, 
+        "content":["Ost","Gorgonzola","Mozarella"], 
+        "picture":"images/item3.jpg"
+    },
+    {
+        "name": "IT-pizzan", 
+        "price": 10, 
+        "content":["Ost","Lamm","Kalkon"], 
+        "picture":"images/item1.jpg"
+    },
+    {
+        "name": "Bibliotekspizzan", 
+        "price": 11, 
+        "content":["Ost","Basilika","Mozarella"], 
+        "picture":"images/item2.jpg"
+    },
+    {
+        "name": "Frukt-pizzan", 
+        "price": 20, 
+        "content":["Banan","Blåbär","Äpple"], 
+        "picture":"images/item3.jpg"
+    }
+]
+
+

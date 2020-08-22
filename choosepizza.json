@@ -1,0 +1,14 @@
+[
+    {
+        "botten": ["Krispig", "Tunn", "Glutenfri", "Fullkorn", "Pan Pizza"]
+    },
+    
+    {
+        "topping": ["Tomat", "Ost", "Kyckling",  "Champinjoner", "Lök"]
+    
+    },
+    {
+        "extra": ["Fanta", "Coca cola", "Coca Cola Light", "Sprite", "Ramlösa"]
+    
+    }
+]

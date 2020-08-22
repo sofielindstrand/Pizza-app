@@ -1,0 +1,1 @@
+Du får lägga till ny bakgrund samt ändra i css:en.

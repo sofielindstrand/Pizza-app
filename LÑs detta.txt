@@ -1,0 +1,7 @@
+1. Ändra inte i json-filernas struktur, MEN du får lägga in data, ta bort data, lägga in egna bilder osv.
+2. Du kan skapa flera script-filer.
+3. Viss css i html-filerna kan vara "onödiga" (jag kan ha glömt att ta bort något), antingen låter du det vara eller så tar du bort det. 
+4. Css-mallen är tagen från W3Layouts, så ta inte bort footern. Du får lägga in egen CSS.
+5. Glöm inte kommentera din kod och skriva en eller två rader om var/vem du har fåt hjälp ifrån.
+
+Lycka till :)
